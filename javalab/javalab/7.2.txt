@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<applet code="ResultApplet.class" width="300" height="150">
+    <param name="m1" value="45">
+    <param name="m2" value="30">
+</applet>
+
+</body>
+</html>
